@@ -1,0 +1,12 @@
+1.	Boolean is data’ s type, it’s means is value with either True or False: 
+2.	Flow chart:
+
+ 
+3.	Nested conditional is a conditional constains an other conditional.
+Ex:
+if hour == 7:
+    an_toi = True
+elif hour < 7:
+    lam_viec = True
+else:
+    di_ngu = True
