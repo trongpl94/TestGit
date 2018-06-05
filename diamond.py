@@ -1,0 +1,23 @@
+from turtle import *
+shape("turtle")
+color('red')
+begin_fill()
+def _firstDiamond_():
+        right(105)
+        forward(50)
+        left(30)
+        forward(50)
+        left(150)
+        forward(50)
+        left(30)
+        forward(50)
+_firstDiamond_()
+for i in range(0, 3): #next 3 diamond
+        left(60)
+        forward(50)
+        left(30)
+        forward(50)
+        left(150)
+        forward(50)
+        left(30)
+        forward(50)
